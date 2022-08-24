@@ -1,0 +1,11 @@
+{
+  "name": "js_bootcamp_code",
+  "version": "1.0.0",
+  "description": "Code example home for JS Script bootcam",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gene Belford",
+  "license": "ISC"
+}
